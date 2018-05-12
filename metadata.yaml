@@ -1,0 +1,34 @@
+_repo: The-Hunted-Woman_11328
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Curwood, James Oliver
+    birthdate: 1878
+    deathdate: 1927
+    gutenberg_agent_id: '1487'
+    url: http://www.gutenberg.org/2009/agents/1487
+    wikipedia: http://en.wikipedia.org/wiki/James_Oliver_Curwood
+description: Title; Contents; Chapter I; Chapter II; Chapter III; Chapter IV; Chapter
+  V; Chapter VI; Chapter VII; Chapter VIII; Chapter IX; Chapter X; Chapter XI; Chapter
+  XII; Chapter XIII; Chapter XIV; Chapter XV; Chapter XVI; Chapter XVII; Chapter XVIII;
+  Chapter XIX; Chapter XX; Chapter XXI; Chapter XXII; Chapter XXIII; Chapter XXIV;
+  Chapter XXV; Chapter XXVI; Chapter XXVII; Chapter XXVIII; Chapter XXIX; Chapter
+  XXX
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11328'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- !lcsh 'Suspense fiction'
+- !lcsh 'Northwest, Canadian -- Fiction'
+title: The Hunted Woman
+url: http://www.gutenberg.org/ebooks/11328
